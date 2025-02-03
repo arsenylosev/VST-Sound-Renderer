@@ -1,5 +1,5 @@
 @echo off
-for /d %%B in (D:\Data\*) do (
+for /d %%B in (D:\Serum_Render\Data\Batch_4_presets\*) do (
     python render_wav.py ^
     --plugin "C:\Program Files\Xfer\Serum\Serum_x64.dll" ^
     --note-duration 1.5 ^
