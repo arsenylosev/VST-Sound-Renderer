@@ -2,7 +2,7 @@ import argparse
 import os
 import shutil
 
-N = 8000  # the number of files in each subfolder
+N = 12000  # the number of files in each subfolder
 
 def move_files(abs_dirname):
     """Move files into subdirectories."""
