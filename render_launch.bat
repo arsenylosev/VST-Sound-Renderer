@@ -5,5 +5,5 @@ python render_wav.py ^
 --pitch-low 12 ^
 --pitch-step 12 ^
 --pitch-high 84 ^
---preset-dir "D:\Serum_Render\Data\Batch_4_presets\001" ^
---output-dir "D:\Serum_Render\Data\Batch_4_renders"
+--preset-dir "" ^
+--output-dir ""

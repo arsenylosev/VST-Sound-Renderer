@@ -4,7 +4,7 @@ from collections import Counter
 
 from tqdm import tqdm
 
-PRESETS_FOLDER = r"D:\Serum_Render\Data\Batch 4 - Presets 0-50k"
+PRESETS_FOLDER = r""
 
 def md5(fname):
     hash_md5 = hashlib.md5()
